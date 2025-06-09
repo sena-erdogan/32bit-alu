@@ -1,0 +1,9 @@
+module alu32(
+input [3:0] A,
+input [3:0] B,
+input [1:0] S
+output [3:0] R);
+
+wire [3:0] wAnd;
+wire [3:0] wAnd;
+wire [3:0] wAnd;
